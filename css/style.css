@@ -131,7 +131,7 @@ body{
 .dropdown:hover .dropdown-header {
     visibility: visible;
     width: 140px;
-    height:90px;
+    height:130px;
     transition: .5s;
 
 }
