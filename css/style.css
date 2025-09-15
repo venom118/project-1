@@ -87,7 +87,6 @@ body{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     border-radius: 10px;
     visibility: hidden;
-    transition:.3s;
 }
 .dropdown-header0{
   z-index: 0;
@@ -95,7 +94,7 @@ body{
   cursor: pointer;
   position: relative;
   display: inline-block;
-    transition:.3s;
+    
 }
 .dropdown-header2{
     margin-top: 20px;
@@ -111,7 +110,7 @@ body{
 .dropdown:hover .dropdown-header0{
     z-index: 2;
     opacity: 1;
-    transition: 1s;
+    transition: 1.2s;
 }
 .dropdown-header0::after{
     position: absolute;
