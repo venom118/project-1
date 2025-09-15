@@ -758,6 +758,7 @@ body{
     left: 0;
     background-color: #03329161;
     opacity: .4;
+    transition: .5s;
 }
 .box-pricing:hover::after{
     width: 100%;
@@ -939,6 +940,7 @@ body{
     left: 0;  
     background-color: #03329161; 
     opacity: .3; 
+    transition: .5s;
 }
 .box-team:hover::after{
     width: 100%;
@@ -1052,6 +1054,7 @@ body{
     left: 0;  
     background-color: #03329161; 
     opacity: .3; 
+    transition: .5s;
 }
 .box-recent:hover::after{
     width: 100%;
