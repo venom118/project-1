@@ -87,7 +87,7 @@ body{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     border-radius: 10px;
     visibility: hidden;
-    
+    transition:.3s;
 }
 .dropdown-header0{
   z-index: 0;
@@ -95,7 +95,7 @@ body{
   cursor: pointer;
   position: relative;
   display: inline-block;
-    transition:.5s;
+    transition:.3s;
 }
 .dropdown-header2{
     margin-top: 20px;
@@ -402,6 +402,7 @@ body{
     background-color: rgba(2, 21, 38, 0.654);
     opacity: 0;
     visibility: hidden;
+    transition:.3s;
 }
 .t-projects{
     color: #b1b0b0;
